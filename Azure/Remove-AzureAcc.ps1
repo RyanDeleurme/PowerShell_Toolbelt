@@ -1,4 +1,6 @@
 <#Delete Azure Users#>
+Import-Module -AzureAD
+connect-AzureAD
 $array=@()
 $csv = Import-Csv -Path "C:\path\folder\Remove\Azure.csv"
 foreach($item in $csv) { 
