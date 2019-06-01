@@ -10,7 +10,6 @@ On Popup_box.ps1, edit these items:
 * `lines 9,31,55` for image files.
 
 Alert Form: 
+![Alert_Form][logo]
 
-![Alert Form][logo]
-
-[logo]: https://github.com/RyanDeleurme/PowerShell_Toolbelt/tree/master/images/alert_form.PNG
+[logo]: 
