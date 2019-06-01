@@ -38,9 +38,9 @@ Items to edit:
 Make personalized message and send it to all computers that are specified. Will make a toast message on the remote computer. This works on both Windows 10 and Windows 7. Make sure test_popup.ps1 is on a network share that everyone is able to get to. 
 
 Form Layout: 
-![layout][logo]
+![layout][logo3]
 
-[logo]: https://github.com/RyanDeleurme/PowerShell_Toolbelt/blob/master/images/toast_form.PNG  "Toast Form"
+[logo3]: https://github.com/RyanDeleurme/PowerShell_Toolbelt/blob/master/images/toast_form.PNG  "Toast Form"
 <br/>
 Toast Message: 
 ![toast][logo2]
