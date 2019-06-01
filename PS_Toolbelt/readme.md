@@ -40,7 +40,7 @@ Make personalized message and send it to all computers that are specified. Will 
 Form Layout: 
 ![layout][logo]
 
-[logo]: https://github.com/RyanDeleurme/PowerShell_Toolbelt/blob/master/images/toast_form.png  "Toast Form"
+[logo]: https://github.com/RyanDeleurme/PowerShell_Toolbelt/blob/master/images/toast_form.PNG  "Toast Form"
 <br/>
 Toast Message: 
 ![toast][logo2]
