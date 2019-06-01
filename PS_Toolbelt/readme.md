@@ -41,11 +41,11 @@ Form Layout:
 ![layout][logo]
 
 [logo]: https://github.com/RyanDeleurme/PowerShell_Toolbelt/blob/master/images/toast_form.png  "Toast Form"
-
+<br/>
 Toast Message: 
 ![toast][logo2]
 
-[logo2]: https://github.com/RyanDeleurme/PowerShell_Toolbelt/blob/master/images/toast_msg.png 
+[logo2]: https://github.com/RyanDeleurme/PowerShell_Toolbelt/blob/master/images/toast_msg.PNG
 
 Items to edit: 
 * `line 53` Edit UNC path for test_popup.ps1.
