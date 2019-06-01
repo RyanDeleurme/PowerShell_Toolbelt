@@ -12,4 +12,4 @@ On Popup_box.ps1, edit these items:
 Alert Form: 
 ![Alert_Form][logo]
 
-[logo]: 
+[logo]: https://github.com/RyanDeleurme/PowerShell_Toolbelt/blob/master/images/Alert_form.PNG
