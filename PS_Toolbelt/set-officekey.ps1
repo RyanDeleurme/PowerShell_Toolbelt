@@ -104,4 +104,3 @@ else {
     set-64bitoffice16key
     }
 }
-Set-OfficeProductKey
