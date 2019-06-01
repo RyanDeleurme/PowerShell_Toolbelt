@@ -1,6 +1,5 @@
 # Stapler
-Stapler is a tool that helps daily automation checks, initial server deployment checks, and troubleshooting tool. 
-Read Stapler1.1_template.ini on how to use Stapler, or see below on how to format the ini file and what you can do.
+Stapler is a tool that helps daily automation checks, initial server deployment checks, and troubleshooting tool. You do not need to have every section in your template file, the script will skip over sections that are not in the ini file. Read Stapler1.1_template.ini on how to use Stapler, or see below on how to format the ini file and what you can do.
 
 ```ini
 ; Stapler 1.0 
