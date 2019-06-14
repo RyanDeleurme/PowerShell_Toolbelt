@@ -71,3 +71,13 @@ Set-OfficeProductKey JohndAdmin remotePC
 ```
 Items to edit: 
 * `lines 45,58,71,84` for the office key. 
+
+## Get-OldComputers
+This grabs old computers from a certain date (in days). Please make sure the days is negative when the script prompts you (ex: -60). Lines to edit: 
+* `line 5,6` for the filepath and log file path.
+* `line 11` for the top level OU to search for the computers.
+Here is what the CSV file will look like: 
+
+|Name   |DNS   |Reachable   |last login   |last password   |AD Location   |
+|---|---|---|---|---|---|
+|Computer1   |computer1.company.pri   |TRUE/FALSE   |7/11/2018 10:51 AM   |7/7/2018 10:51 AM   |CN=computer1,OU=computers,DC=company   |
