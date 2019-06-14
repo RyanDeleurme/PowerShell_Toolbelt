@@ -24,4 +24,8 @@ You can put both fields in, or one of the fields in, the script will know if the
 CSV path.
 
 ## Add-UserGroupstoAADGroup
-This script adds from multiple groups in a text file to a single group in Azure AD. Please run Connect-Azure  
+This script adds from multiple groups in a text file to a single group in Azure AD. Please run Connect-Azuread before you run this script. Make a text file of the groups you would like to pull the users from. Here is what the out-grid view will look like: 
+
+|Display Name   |ObjectID   |
+|---|---|
+|John Doe  | jfin28-XXXXX-XXXXX   |
