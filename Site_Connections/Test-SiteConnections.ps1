@@ -54,7 +54,7 @@ $failure | Out-GridView -Title "Failed Site Connections" -Wait
 #another way to do this with objects instead of ini files
 <#
 $object = [pscustomobject] @{ 
-  name = "isstudent-e1453","Chuckc-a00210"
+  name = "computer-assetXXX","computer-assetXXX"
   port = 3389,3389
 }
 $results = @()
