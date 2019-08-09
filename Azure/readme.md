@@ -29,3 +29,9 @@ This script adds from multiple groups in a text file to a single group in Azure 
 |Display Name   |ObjectID   |
 |---|---|
 |John Doe  | jfin28-XXXXX-XXXXX   |
+
+# Get-AzureUserMemberships
+This script is used for pulling users that are from a specific domain and getting the groups associated with each user. The Out-String.trim() will put a carriage return for each group making it easy to read on the CSV file. To see all the groups, expand the <u>row.</u>
+|User   |Memberships   |
+|---|---|
+|John Doe  |Group1...   |
